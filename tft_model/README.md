@@ -387,11 +387,6 @@ MIT License - see LICENSE file for details
 - **TFT Paper**: "Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting" (Lim et al., 2021)
 - **Dataset**: San Francisco Municipal Transportation Agency (SFMTA)
 
----
-
-## 📧 Contact
-
-For questions or issues, please open a GitHub issue or contact [your-email@example.com]
 
 ---
 
