@@ -79,10 +79,6 @@ npm run build
 npm start
 ```
 
-## License
-
-MIT
-
 ## Contact
 
 GitHub: [@krishnakant2607](https://github.com/krishnakant2607)
