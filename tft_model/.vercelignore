@@ -1,8 +1,0 @@
-# Ignore the TFT model folder during Vercel deployment
-# The model is Python-based and not part of the Next.js build
-
-tft_model/
-
-# Ignore large model files
-*.pt
-*.pkl
