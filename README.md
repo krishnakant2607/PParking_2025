@@ -4,7 +4,7 @@ A smart parking management system built with Next.js 15, featuring real-time occ
 
 ## Live Demo
 
-🔗 **[View Live Application](https://intellipark-git-main-krishnakant2607s-projects.vercel.app/)**
+🔗 **[View Live Application] (https://intellipark-azure.vercel.app/)**
 
 https://intellipark-git-main-krishnakant2607s-projects.vercel.app/
  
