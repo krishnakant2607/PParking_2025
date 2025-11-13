@@ -6,6 +6,8 @@ A smart parking management system built with Next.js 15, featuring real-time occ
 
 🔗 **[View Live Application](https://intellipark-git-main-krishnakant2607s-projects.vercel.app/)**
 
+https://intellipark-git-main-krishnakant2607s-projects.vercel.app/
+
 ## Features
 
 - **Real-time Parking Search** - Interactive map with garage locations
