@@ -1,0 +1,35 @@
+{
+  "historical_features": [
+    "Total_Entries",
+    "Total_Exits",
+    "Net_Change",
+    "Occupancy_Max",
+    "Occupancy_Min",
+    "Occupancy_Std",
+    "DayOfWeek",
+    "Month",
+    "Day",
+    "IsWeekend",
+    "Quarter",
+    "WeekOfYear",
+    "Occupancy_Mean_Lag1",
+    "Occupancy_Mean_Lag7",
+    "Occupancy_Mean_Lag14",
+    "Occupancy_Mean_RollingMean7",
+    "Occupancy_Mean_RollingStd7",
+    "Occupancy_Mean_RollingMean14",
+    "Occupancy_Mean_RollingStd14",
+    "Occupancy_Mean_RollingMean30",
+    "Occupancy_Mean_RollingStd30"
+  ],
+  "future_features": [
+    "DayOfWeek",
+    "Month",
+    "Day",
+    "IsWeekend",
+    "Quarter"
+  ],
+  "target_col": "Occupancy_Mean",
+  "encoder_length": 30,
+  "decoder_length": 15
+}
